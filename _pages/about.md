@@ -6,7 +6,7 @@ subtitle: <a href='#'>Yingcheng Hu</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: life.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
