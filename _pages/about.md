@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Yingcheng Hu</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Yingcheng Hu</a>. Beijing. 
 
 profile:
   align: right
